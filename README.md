@@ -20,13 +20,15 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 </p>
 
+<h2>💻 Portfolio</h2>
+<p>
+  🌐 Check out my work at: <a href="https://portfolio-eosin-one-i76d78qnfy.vercel.app/" target="_blank">https://portfolio-eosin-one-i76d78qnfy.vercel.app/</a>
+</p>
+
 <h2>⚡️ Where to find me</h2>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/vaishnavi-bhosale/" style="display: inline-block;">
+  <a target="_blank" href="https://www.linkedin.com/in/vaishnavi-bhosale-7a834a2ab/" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Bhosale-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
-  </a>
-  <a target="_blank" href="https://www.instagram.com/vaishnavi_bhosale_/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-%40vaishnavi_bhosale_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
 
